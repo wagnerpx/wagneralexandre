@@ -38,9 +38,3 @@
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
   
 </div>
-
-<h3>Snake</h3>  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagnerpx/wagnerpx/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wagnerpx/wagnerpx/output/github-contribution-grid-snake.svg">
-</picture>
