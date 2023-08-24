@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Sou+Wagner!;Eu+moro+no+Brazil;Tenho+42+anos;Eu+sou+Desenvolvedor+Front-End;Seja+bem+vindo!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Sou+WagnerPx!;Eu+moro+no+Brazil;Tenho+42+anos;Eu+sou+Desenvolvedor+Front-End;Seja+bem+vindo!+ツ)
 
 <div align="center">
   <br>
@@ -16,7 +16,6 @@
  
  <br>
  
- 
 <div> 
   <p align="center">
     <a href="https://www.linkedin.com/in/wagnerpx/"><img height="35" width="140" title="linkedin.com/in/wagnerpx" src="./img/linkedin.png">
@@ -24,17 +23,6 @@
   </p>
 </div>
  
-
-
-<div> 
-  <p align="center">
-    <a href="#"><img title="Snake animation" src="./img/snake.svg">
-    </a>
-  </p>
-</div>
-
-</div>
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/wagnerpx/count.svg" /></p> 
@@ -56,7 +44,9 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30px">
 </div>
+
  <br />
+
 <hr />
 <h2 align="center"> * Ferramentas, Ambientes e Desenvolvimento * </h2>
 <div align="center">
@@ -72,3 +62,10 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
 </a>
+
+<div> 
+  <p align="center">
+    <a href="#"><img title="Snake animation" src="./img/snake.svg">
+    </a>
+  </p>
+</div>
