@@ -4,10 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Sou+Wagner!;Eu+moro+no+Brazil;Tenho+42+anos;Eu+sou+Desenvolvedor+Front-End;Seja+bem+vindo!+ツ)
 
-## Por que estou seguindo as pessoas?
-### A razão é simples estou em busca de conhecimento, e contribuir no que estiver ao meu alcance, porque o conhecimento é um dom que deve ser compartilhado.
-### Visitors: <img align="center" height="30px" src="https://profile-counter.glitch.me/wagnerpx/count.svg" />
-
 <div align="center">
   <br>
   <a href="#">
@@ -16,19 +12,6 @@
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerpx&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
-</div>
-
-
- <div>
-   <a href="https://github.com/wagnerpx">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerpx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerpx&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
  <br>
