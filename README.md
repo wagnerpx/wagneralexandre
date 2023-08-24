@@ -2,6 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=750&size=30&duration=5000&pause=3000&color=1890ff&center=true&vCenter=true&width=550&lines=Olá!+Sou+Wagnerpx!" alt="Typing SVG" /></a>
 </div>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Sou+Wagner!;Eu+moro+no+Brazil;Tenho+42+anos;Eu+sou+Desenvolvedor+Front-End;Seja+bem+vindo!+ツ)
+
 ## Por que estou seguindo as pessoas?
 ### A razão é simples estou em busca de conhecimento, e contribuir no que estiver ao meu alcance, porque o conhecimento é um dom que deve ser compartilhado.
 ### Visitors: <img align="center" height="30px" src="https://profile-counter.glitch.me/wagnerpx/count.svg" />
