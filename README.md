@@ -27,6 +27,13 @@
  
   ![Snake gif](https://github.com/wagnerpx/wagnerpx/blob/output/github-contribution-grid-snake.svg)
 
+<div> 
+  <p align="center">
+    <a href="#"><img title="Snake animation" src="./img/snake.svg">
+    </a>
+  </p>
+</div>
+
 </div>
 
 <div align="center">
